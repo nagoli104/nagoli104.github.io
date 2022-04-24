@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Oliver Nagel
+description: Data Scientist | Berlin
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: /nagoli104.github.io #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
@@ -17,12 +17,12 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-facebook: "#"
-twitter: "#"
-linkedin: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
+#facebook: "#"
+#twitter: "#"
+linkedin: "olivernagel"
+github: "nagoli104"
+#researchgate: "#"
+orcid: "0000-0003-1434-726X"
 
 highlighter: rouge
 markdown: kramdown
