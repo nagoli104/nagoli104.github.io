@@ -3,8 +3,8 @@
 title: Oliver Nagel
 description: Data Scientist | Berlin
 
-baseurl: /nagoli104.github.io #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+baseurl:  #name of GitHub repository
+url: "https://nagoli104.github.io" #custom url to be used instead of GitHub repository
 email: #
 
 
